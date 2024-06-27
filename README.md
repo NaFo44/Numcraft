@@ -1,5 +1,5 @@
 # Numcraft
-## A 3D minecraft-like map generator
+## A 3D minecraft-like map generator for numworks ( work on Epsilon ) 
 
 <img src="src/WIN_20240616_23_59_28_Pro.jpg" alt="Sample app for Numworks Calculator" width="300">
 
