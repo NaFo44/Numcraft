@@ -12,7 +12,7 @@ You can move in every direction :
 * plus to move forward
 * minus to move backward.
  
-Rendering speed for a 4x4 map (8 cubes, 96 triangles): 4fps
+Rendering speed for a 6x6 map (32 cubes, 432 triangles): 4fps
 
 Thanks to [Quantale](src/WIN_20240616_23_59_28_Pro.jpg) for his explanation.
 
