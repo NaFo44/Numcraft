@@ -9,8 +9,8 @@ You can move in every direction :
 * key 2 to move it down
 * key 4 to move it to the right
 * Key 6 to move it to the left
-* + to move forward
-* - to move backward.
+* plus to move forward
+* minus to move backward.
  
 Rendering speed for a 4x4 map (8 cubes, 96 triangles): 4fps
 
