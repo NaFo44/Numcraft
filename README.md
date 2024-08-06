@@ -21,7 +21,7 @@ Rendering speed for a 4x4 map (16 cubes, 192 triangles): smooth render, 10fps
 Current issues : 
 * Visual bugs for the rendering of a chunk (16x16)
 * Rendering too slow to be truly playable
-* Bug when crossing cubes that are behind the player (no collision)
+* No collision, bug when cubes are behind the player
 * No block selection
   
 Possible applications using the 3D engine of this project: 3D platformer (fewer triangles, faster, and therefore playable), 3D model viewer
