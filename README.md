@@ -18,6 +18,11 @@ Rendering speed for a 4x4 map (16 cubes, 192 triangles): 4fps
 ### V2.0
 Rendering speed for a 4x4 map (16 cubes, 192 triangles): smooth render, 10fps
 
+Current issues : 
+* Visual bugs for the rendering of a chunk (16x16)
+* Rendering too slow to be truly playable
+* Bug when crossing cubes that are behind the player (no collision)
+* No block selection
 
 Thanks to [Quantale](src/WIN_20240616_23_59_28_Pro.jpg) for his explanation.
 
