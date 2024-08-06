@@ -23,6 +23,8 @@ Current issues :
 * Rendering too slow to be truly playable
 * Bug when crossing cubes that are behind the player (no collision)
 * No block selection
+  
+Possible applications using the 3D engine of this project: 3D platformer (fewer triangles, faster, and therefore playable), 3D model viewer
 
 Thanks to [Quantale](src/WIN_20240616_23_59_28_Pro.jpg) for his explanation.
 
