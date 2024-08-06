@@ -11,9 +11,14 @@
 * Key 6 to move it to the left
 * plus to move forward
 * minus to move backward.
- 
-Rendering speed for a 6x6 map (32 cubes, 432 triangles): 4fps
+
+### V1.0
+Rendering speed for a 4x4 map (16 cubes, 192 triangles): 4fps
+
+### V2.0
+Rendering speed for a 4x4 map (16 cubes, 192 triangles): smooth render, 10fps
+
 
 Thanks to [Quantale](src/WIN_20240616_23_59_28_Pro.jpg) for his explanation.
 
-Soon : a clean version of the code, and faster rendering
+Soon : a cleaner version of the code, and faster rendering
