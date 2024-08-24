@@ -1,9 +1,9 @@
 #ifndef MY_MATH_FUNCTIONS_H
 #define MY_MATH_FUNCTIONS_H
 
-#define PI 3.141592653589793238462643383279502884197169399375105
+#define PI 3 // the more precise the value, the slower it will be
 
-constexpr int NUM_TERMS = 10;
+constexpr int NUM_TERMS = 3; // 3 : Fast    10 : slow
 
 float cos(float x);
 float sin(float x);
